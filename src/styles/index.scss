@@ -4,3 +4,18 @@ body {
   color: $body-color;
   font-family: sans-serif;
 }
+
+input {
+  font-size: 2em;
+  height: 100px;
+  width: 500px;
+  margin-bottom: 10px;
+}
+
+button {
+  font-size: 2em;
+}
+
+section {
+  text-align: center;
+}
